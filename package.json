@@ -1,0 +1,15 @@
+{
+  "name": "phicc-bot-project",
+  "version": "1.0.0",
+  "description": "Rubber Duck Programming Discord Bot Friend!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gene Tigner",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node-opus": "^0.3.3"
+  }
+}
